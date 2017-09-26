@@ -28,3 +28,11 @@ En partant de l'api existante, vous devez ajouter les services suivantes :
 * Les moyennes de note par projet doivent être présentée avec 2 décimales
 
 ## 5. Une fois le travail terminé, ajouter un commentaire "terminé" à  votre pull-request
+
+# Correction 
+
+Vous trouverez dans le code source la correction.
+
+Vous trouverez : 
+- comment faire une aggregation en mongo
+- comment gérer les erreur mongodb de façon centralisée.
